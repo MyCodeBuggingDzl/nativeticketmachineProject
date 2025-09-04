@@ -17,3 +17,4 @@ Anwsers of Part 2:
 
 2: The balance is 0 atfer the ticket machine has printed a ticket.
 3: Whenever I add too much cents or when I didn't put enough, it the balance shows 0 and when I print the ticket, it thinks i put the right amount. Also, you do not recieve any refund. 
+5: The price of the ticket changed.
