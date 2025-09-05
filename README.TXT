@@ -72,4 +72,13 @@ Anwsers of Part 2:
 27: I get the ';' expected error.
 28: printTicket is a type void while getPrice is a type int.
 29: No, because they're type void.
-30: 
+31: /** 
+    * Increase score by the given number of points.
+    */ 
+     public void increaseScore(int points)
+   { 
+       score = score + points 
+       // TODO: Increase score by the value in points. 
+   }
+32: Yes, it changes the value of an object. 
+  
