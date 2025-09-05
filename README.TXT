@@ -105,5 +105,5 @@ Credits after: 3
 39: It will print out "# price cents."
 40: It also printed out "# price cents."
 41: Added showPrice
-42:
+42: When I call the showPrice method the price of both ticket machine are different.
 
