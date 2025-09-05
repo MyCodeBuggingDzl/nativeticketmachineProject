@@ -105,5 +105,8 @@ Credits after: 3
 39: It will print out "# price cents."
 40: It also printed out "# price cents."
 41: Added showPrice
-42: When I call the showPrice method the price of both ticket machine are different.
+42: When I call the showPrice method the price of both ticket machine are different. The method, showPrice, is used to create an output of the desire ticket machine.
+43: No, the statement isn't the same as before. This time it only shows the price and the cents. %d means to insert the next argument as a int value and %n means end of line.
+44. You have to pay 1000 cents for a ticket. If I create the ticket machine and put 7 cents for a ticket. The 1000 cents will overwrite the 7 cents.
+45:
 
