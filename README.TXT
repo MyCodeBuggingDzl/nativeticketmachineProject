@@ -77,8 +77,22 @@ Anwsers of Part 2:
     */ 
      public void increaseScore(int points)
    { 
-       score = score + points 
+       score = score + points; 
        // TODO: Increase score by the value in points. 
    }
-32: Yes, it changes the value of an object. 
-  
+32: Yes, it changes the value of an object. For exemple, we add 3 credits to a student who has 0 credit.
+Credits before: 0
+Credits after: 3
+33:/** 
+   * Reduce price by the given amount. 
+   */ 
+     public void discount(int amount) 
+{
+    price = price - amount;
+ // TODO: Subtract amount from price.
+}
+34: public void setAge(int currentAge)
+    {
+      age = currentAge;
+    }
+35:
