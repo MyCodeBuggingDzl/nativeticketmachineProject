@@ -99,6 +99,8 @@ Credits after: 3
     {
       private int boolean setAlive;
     }
-36:  
+36: When i click on int getPrice it shows 0 and when i add a certain amount of money to the ticket machine and printed out the ticket, the ticket shows 0 cents
+37: My cat has green eyes.
+38: 
    
 
