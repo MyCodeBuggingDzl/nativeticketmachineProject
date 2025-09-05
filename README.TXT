@@ -95,4 +95,10 @@ Credits after: 3
     {
       age = currentAge;
     }
-35:
+35: public class boolean Alive()
+    {
+      private int boolean setAlive;
+    }
+36:  
+   
+
