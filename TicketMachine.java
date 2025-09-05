@@ -28,9 +28,8 @@ public class TicketMachine
         price = cost;
         balance = 0;
         total = 0;
+    }
 
-      price = 1000;
-}
     /**
      * Return the price of a ticket.
      */
@@ -67,6 +66,8 @@ public class TicketMachine
     public void insertMoney(int amount)
     {
         balance = balance + amount;
+        balance = 0; 
+        
     }
 
     /**
