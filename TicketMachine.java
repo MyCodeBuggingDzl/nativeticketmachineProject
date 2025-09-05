@@ -28,10 +28,8 @@ public class TicketMachine
         price = cost;
         balance = 0;
         total = 0;
-    }
-  public int TicketMachine2()
-{
-     return price = 1000;
+
+      price = 1000;
 }
     /**
      * Return the price of a ticket.
