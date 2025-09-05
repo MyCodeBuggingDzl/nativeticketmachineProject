@@ -25,7 +25,7 @@ public class TicketMachine
      */
     public TicketMachine(int cost)
     {
-        price = price;
+        price = cost;
         balance = 0;
         total = 0;
     }
@@ -37,7 +37,15 @@ public class TicketMachine
     {
         return price;
     }
-
+    /**
+     * Prompt text before inserting an amount of money.
+     */
+    public void promptText()
+    {
+        System.out.printf("#"+"Please insert the correct amount of money");
+    }
+    
+    
     /**
      * Return the amount of money already inserted for the
      * next ticket.
