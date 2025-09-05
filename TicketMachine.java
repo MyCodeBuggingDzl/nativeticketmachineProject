@@ -44,8 +44,13 @@ public class TicketMachine
     {
         System.out.printf("#"+"Please insert the correct amount of money");
     }
-    
-    
+    /**
+     *  Show price of the ticket.
+     */
+    public void showPrice()
+    {
+         System.out.printf("The price of a ticket"+price+"cents"); 
+    }
     /**
      * Return the amount of money already inserted for the
      * next ticket.
